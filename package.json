@@ -1,0 +1,19 @@
+{
+  "name": "softphoneserver",
+  "version": "1.0.0",
+  "description": "A simple servive to serve the react softphone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "mime": "^2.3.1",
+    "mime-types": "^2.1.19"
+  }
+}
